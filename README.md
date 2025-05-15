@@ -35,14 +35,14 @@ An advanced NLP-based system designed to identify fraudulent job postings using 
 ```
 fake_job_detection/
 ├── flask_app/
-│   ├── app.py           # Main Flask application
+│   ├── app.py           
 │   └── templates/
-│       └── index.html   # HTML template
+│       └── index.html   
 ├── models/
 │   ├── xgboost_model.pkl  # Trained XGBoost model
 │   └── tfidf_vectorizer.pkl  # TF-IDF vectorizer
 ├── notebooks/           # Jupyter notebooks for model training
-└── requirements.txt     # Project dependencies
+└── requirements.txt     
 ```
 
 ## Setup Instructions
