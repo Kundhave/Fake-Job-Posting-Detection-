@@ -25,6 +25,11 @@ An advanced NLP-based system designed to identify fraudulent job postings using 
 - Uses XGBoost for classification
 - TF-IDF vectorization for text processing
 
+![image](https://github.com/user-attachments/assets/5e4f3833-d274-4e10-9346-263c587c48bd)
+
+![image](https://github.com/user-attachments/assets/5b5f9c61-5e34-4a93-a086-fb399e79d9dd)
+
+
 ## Project Structure
 
 ```
