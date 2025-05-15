@@ -83,36 +83,7 @@ fake_job_detection/
 - **Algorithm**: XGBoost
 - **Features**: TF-IDF vectorized job descriptions
 - **Training Data**: Dataset of labeled job postings
-- **Accuracy**: [Add accuracy metrics after testing]
-
-## Example Fake Job Description
-
-```
-Urgent Hiring - Remote Work from Home - No Experience Required!
-
-We are a leading company looking for immediate hiring of 100 candidates for work from home positions. This is a unique opportunity to earn $5000+ per month working just 2-3 hours daily. No experience or qualifications needed - we will provide full training.
-
-Job Requirements:
-- Must have a laptop and internet connection
-- Must be willing to work from home
-- No prior experience required
-- No investment needed
-- Must be 18 years or older
-
-What You'll Get:
-- Guaranteed $5000+ monthly income
-- Flexible working hours
-- No boss watching over you
-- Work from anywhere in the world
-- Quick payment processing
-
-How to Apply:
-1. Fill out the form below
-2. Complete our simple training program
-3. Start earning immediately
-
-Don't miss this opportunity! Positions are filling up fast. Apply now before they're all gone!
-```
+- **Accuracy**: 97% 
 
 ## Contributing
 
@@ -122,6 +93,3 @@ Don't miss this opportunity! Positions are filling up fast. Apply now before the
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-MIT License
